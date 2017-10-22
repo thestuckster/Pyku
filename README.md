@@ -7,7 +7,7 @@ A gui application for controlling your roku device from your desktop.
 
 To install dependencies:
 
-`pip install -r requirements.t`
+`pip install -r requirements.txt`
 
 To run application:
 
